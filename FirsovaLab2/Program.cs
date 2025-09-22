@@ -127,7 +127,6 @@
             //    default:
             //        Console.WriteLine("Игра не найдена");
             //        break;
-
             //}
         }
 
